@@ -10,7 +10,7 @@
 2. [绪论](./introduction.md)
 3. [校长说](./chapter0/index.md)
 4. [万事开头难](./chapter1/index.md)
-5. [学生信息管理](./chapter2.md)
+5. [学生信息管理](./chapter2/index.md)
 6. 单元测试
    - Spring Boot Test
    - 编写 Controller 层测试（MockMvc）
